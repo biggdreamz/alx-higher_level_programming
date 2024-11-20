@@ -14,4 +14,4 @@ class TestRectangle(unittest.TestCase):
     def test_rectangle_input(self):
         """Function to test the input the function rectangle"""
 
-        self.assertRaises(TypeError, rectangle, )
+            self.assertRaises(TypeError, rectangle, )
